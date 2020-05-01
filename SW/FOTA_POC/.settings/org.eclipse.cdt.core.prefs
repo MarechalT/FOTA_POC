@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2130712957/BATCH_BUILD/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2130712957/BATCH_BUILD/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2130712957/BATCH_BUILD/value=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2130712957/IDF_PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2130712957/IDF_PATH/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2130712957/IDF_PATH/value=/home/tmarechal/esp/ESP8266_RTOS_SDK
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2130712957/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2130712957/appendContributed=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.791385084/ESPBAUD/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.791385084/ESPBAUD/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.791385084/ESPBAUD/value=115200
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.791385084/ESPPORT/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.791385084/ESPPORT/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.791385084/ESPPORT/value=/dev/ttyUSB0
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.791385084/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.791385084/appendContributed=true
